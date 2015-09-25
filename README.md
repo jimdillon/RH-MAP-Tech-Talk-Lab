@@ -70,4 +70,4 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 
 ## Once you finish your MBaaS, head back to the Cloud App to hook it up to your new MBaaS.
 
-## Get everything working locally, and then push the 3 Apps to the platform, set up your environmental variables, deploy and enjoy.
+## Get everything working locally, and then git push the 3 Apps to the platform, set up your environmental variables, deploy and enjoy.

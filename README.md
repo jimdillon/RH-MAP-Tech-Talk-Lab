@@ -16,7 +16,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 * Create a directory on your local machine, move into that directory.
 * run fhc target [https://Yourdomain.openshift.feedhenry.com]
 * run fhc login
-* run fhc projects To show your project
+* run fhc projects to list your project(s)
 * Copy the ID of the project you would like to clone
 * run fhc projects clone [Your copied project id]
 * Open the Hybrid client in your favorite editor and head to the client instructions. https://github.com/jimdillon/RHMAP_Lab_Client

@@ -14,6 +14,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 #Instructions
 ## Go to your openshift.feedhenry.com account and create a new Project using the 'Hello World Project' as your template.
   *Login
+  
   *Click the Projects Button
 ![alt tag](https://raw.github.com/jimdillon/RH-MAP-Tech-Talk-Lab/master/create_project_0.jpg)
   

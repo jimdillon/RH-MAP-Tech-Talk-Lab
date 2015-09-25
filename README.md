@@ -5,6 +5,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 * node.js version 0.10.3
 * fhc version 1.1.5
 * grunt
+* git
 * openshift.feedhenry.com account
 * google geocoding API key - https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 * Dark Sky Weather API key - https://developer.forecast.io/

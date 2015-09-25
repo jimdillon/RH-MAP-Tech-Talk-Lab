@@ -6,9 +6,9 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 * fhc version 1.1.5
 * grunt
 * openshift.feedhenry.com account
-* google geocoding API key
-* Dark Sky Weather API key
-* Text editor of your choice
+* google geocoding API key - https://developers.google.com/maps/documentation/geocoding/get-api-key#key
+* Dark Sky Weather API key - https://developer.forecast.io/
+* Text editor of your choice (I'm enjoying atom with the vim extension at the moment.)
 
 #Instructions
 ## Go to your openshift.feedhenry.com account and create a new Project using the 'Hello World Project' as your template.

@@ -34,10 +34,15 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 
 ## Create a directory on your local machine, move into that directory.
 ## Clone your Project
+
   *fhc target [https://Yourdomain.openshift.feedhenry.com]
+
   *fhc login
+
   *fhc projects to list your project(s)
+
   *Copy the ID of the project you would like to clone
+
   *run fhc projects clone [Your copied project id]
 ![alt tag](https://raw.github.com/jimdillon/RH-MAP-Tech-Talk-Lab/master/lab_fhc.jpg)
 

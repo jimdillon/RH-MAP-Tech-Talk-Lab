@@ -19,6 +19,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 * run fhc projects to list your project(s)
 * Copy the ID of the project you would like to clone
 * run fhc projects clone [Your copied project id]
+![alt tag](https://github.com/jimdillon/RH-MAP-Tech-Talk-Lab/edit/master/lab_fhc.jpg)
 * Open the Hybrid client in your favorite editor and head to the client instructions. https://github.com/jimdillon/RHMAP_Lab_Client
 * When you are finished with the client open the Cloud App in your favorite editor and head to the cloud instructions. https://github.com/jimdillon/RHMAP_Lab_Cloud
 * When it's time to create the MBaaS go back to your openshift.feedhenry domain and create an MBaaS using the 'New MBaas Service' Template

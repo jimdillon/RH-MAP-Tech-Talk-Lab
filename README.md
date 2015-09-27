@@ -2,14 +2,14 @@
 Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaScript Hybrid App, a Cloud App and an MBaaS that uses google geocoding API and the Dark Sky weather service to provide the current temperature for city and state input.
 
 ##Requirements:
-* node.js version 0.10.3
-* fhc version 1.1.5
-* grunt
-* git
-* openshift.feedhenry.com account
+* node.js version 0.10.3 - https://nodejs.org/en/download/releases/
+* fhc version 1.1.5 - https://www.npmjs.com/package/fh-fhc
+* grunt - https://www.npmjs.com/package/grunt
+* git - https://git-scm.com/downloads
+* openshift.feedhenry.com account - https://openshift.feedhenry.com/
 * google geocoding API key - https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 * Dark Sky Weather API key - https://developer.forecast.io/
-* Text editor of your choice (I'm enjoying atom with the vim extension at the moment.)
+* Text editor of your choice (I'm enjoying atom with the vim extension at the moment.  Others enjoy Sublime Text.)
 
 #Instructions
 ## Go to your openshift.feedhenry.com account and create a new Project using the 'Hello World Project' as your template.

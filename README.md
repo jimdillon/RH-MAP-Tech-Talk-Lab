@@ -7,6 +7,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 * grunt - https://www.npmjs.com/package/grunt
 * git - https://git-scm.com/downloads
 * openshift.feedhenry.com account - https://openshift.feedhenry.com/
+* Add your ssh key to your openshift.feedhenry.com account - http://openshift.feedhenry.com/docs/dev_tools/local/ssh_keys.html
 * google geocoding API key - https://developers.google.com/maps/documentation/geocoding/get-api-key#key
 * Dark Sky Weather API key - https://developer.forecast.io/
 * Text editor of your choice (I'm enjoying atom with the vim extension at the moment.  Others enjoy Sublime Text.)
@@ -30,7 +31,6 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
   *Click Finish
   ![alt tag](https://raw.github.com/jimdillon/RH-MAP-Tech-Talk-Lab/master/create_project_4.jpg)
 
-* Add your ssh key to your user profile (http://openshift.feedhenry.com/docs/dev_tools/local/ssh_keys.html)
 
 ## Create a directory on your local machine, move into that directory.
 ## Clone your Project

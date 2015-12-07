@@ -48,7 +48,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 
 ## Open the Hybrid client in your favorite editor and head to the client instructions. https://github.com/jimdillon/RHMAP_Lab_Client
 
-## When you are finished with the client open, the Cloud App in your favorite editor and head to the cloud instructions. https://github.com/jimdillon/RHMAP_Lab_Cloud
+## When you are finished with the client, open the Cloud App in your favorite editor and head to the cloud instructions. https://github.com/jimdillon/RHMAP_Lab_Cloud
 
 ## When it's time to create the MBaaS, go back to your openshift.feedhenry domain and create an MBaaS using the 'New MBaas Service' Template
 

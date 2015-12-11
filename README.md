@@ -82,10 +82,11 @@ git push origin master
 * Now you can open your Clien App and run your App in the App Preview
 
 # Extra Credit for those with Android Phones
-* Deploy your App to your Android Device
+Deploy your App to your Android Device
+
 * Open your Client App
 * Click the Build Icon
-* 
+
 In the Build A Binary Screen
 
 * Platform: Android

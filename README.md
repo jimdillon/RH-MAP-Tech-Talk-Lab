@@ -71,3 +71,26 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 ## Once you finish your MBaaS, head back to the Cloud App to hook it up to your new MBaaS.
 
 ## Get everything working locally, and then git push the 3 Apps to the platform, set up your environmental variables, deploy and enjoy.
+```
+git add -A
+git commit -n 'I made some changes and want to push them to the Red Hat Mobile Application Platform'
+git push origin master
+```
+## Once you've pushed your changes to the cloud you'll need to deploy your changes.
+* Open your MBaaS, click the Deploy icon and then click Deploy
+* Open your Cloud App, click the Deploy icon and then click Deploy
+* Now you can open your Clien App and run your App in the App Preview
+
+# Extra Credit for those with Android Phones
+* Deploy your App to your Android Device
+* Open your Client App
+* Click the Build Icon
+* 
+In the Build A Binary Screen
+
+* Platform: Android
+* Git Branch/Tag: master
+* Build Type: Debug
+* Select Cloud App: Select your Cloud App
+* Click the Build Button
+* Scan the QR Code that pops once the build is finished and enjoy your new mobile temperature app.

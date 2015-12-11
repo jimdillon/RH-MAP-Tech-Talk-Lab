@@ -73,7 +73,7 @@ Red Hat Mobile Tech Talk Lab will guide the user through creating a simple JavaS
 ## Get everything working locally, and then git push the 3 Apps to the platform, set up your environmental variables, deploy and enjoy.
 ```
 git add -A
-git commit -n 'I made some changes and want to push them to the Red Hat Mobile Application Platform'
+git commit -m 'I made some changes and want to push them to the Red Hat Mobile Application Platform'
 git push origin master
 ```
 ## Once you've pushed your changes to the cloud you'll need to deploy your changes.
